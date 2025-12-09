@@ -1,0 +1,23 @@
+[
+            {
+        "type": "choice",
+        "question": "",
+        "image": "maa.png",
+        "options": ["343 см³", "346 см³", "350 см³", "320 см³"],
+        "answer": "343 см³"
+    },
+                {
+        "type": "choice",
+        "question": "",
+        "image": "j.jpg",
+        "options": ["343 см³", "346 см³", "350 см³", "320 см³"],
+        "answer": "343 см³"
+    },
+                    {
+        "type": "choice",
+        "question": "",
+        "image": "ma.jpg",
+        "options": ["343 см³", "346 см³", "350 см³", "320 см³"],
+        "answer": "343 см³"
+    }
+]

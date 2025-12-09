@@ -1,0 +1,112 @@
+[
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 1?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 2?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 3?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 4?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 5?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 6?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 7?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 8?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 9?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "9 клас math въпрос 10?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    }
+]

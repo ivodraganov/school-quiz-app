@@ -1,0 +1,112 @@
+[
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 1?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 2?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 3?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 4?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 5?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 6?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 7?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 8?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 9?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "type": "choice",
+        "question": "10 клас bel въпрос 10?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "A"
+    }
+]
